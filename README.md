@@ -9,4 +9,5 @@ To run this program, type this, replacing the 'xxxx' with where your local host 
 
 Full program: https://localhost:xxxx/reverseit/reverse/{input}
 
-# Peer Review: Samuel Laguna: I ran the code it works good. I reverses how it is supposed to do. All the inputs work correctly. this code is all good.
+# Peer Review: Samuel Laguna
+I ran the code it works good. I reverses how it is supposed to do. All the inputs work correctly. this code is all good.
